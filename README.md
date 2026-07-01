@@ -21,11 +21,18 @@ Die CSV lässt sich hier generieren: 👉**https://zeiterfassung.tobse.eu**
 
 Chrome einmalig mit aktiviertem Remote-Debugging starten und sich einloggen:
 
+Windows
 ```
 "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\temp\timer-tracker-chrome-profile\"
 ```
-| Den Ordner `--user-data-dir` auf einen beliebigen Speicherort für ds Chrome-Profil setzen.
 
+Mac
+```
+open -a "Google Chrome" --args --remote-debugging-port=9222 --user-data-dir="/Users/user1234/Workspaces/Exact-Synergy-Time-Tracker/chrome"
+```
+
+| Den Ordner `--user-data-dir` auf einen beliebigen Speicherort für ds Chrome-Profil setzen.
+ 
 Portal-URL: https://employees.exact.com/docs/Home.aspx?id=43730
 
 ### 2. Arbeitstage pflegen
