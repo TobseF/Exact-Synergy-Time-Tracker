@@ -1,4 +1,4 @@
-package de.tfr.tool.de.tfr.tool.timetrack
+package de.tfr.tool.timetrack
 
 import org.openqa.selenium.By
 import org.openqa.selenium.WebDriver
