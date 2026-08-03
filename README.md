@@ -1,4 +1,4 @@
-# Synergy Timer Tracker
+# <img src=".idea/icon.png" width="36"/> Synergy Timer Tracker
 
 Tool zum automatisierten Zeit-Tracking im [Exact-Synergy](https://www.exact.com/de/software/exact-synergy)-Mitarbeiterportal.
 
